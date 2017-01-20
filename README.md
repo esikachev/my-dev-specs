@@ -5,4 +5,4 @@ working my-dev utility.
 
 ## Contacts
 
-You can contact us via mailing list: `<my-dev@googlegroups.com>`
+You can contact us via mailing list: `my-dev@googlegroups.com`
